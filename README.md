@@ -5,6 +5,7 @@ manipuler security.yaml
 créer un entity = User
 créer un controller = SecurityController
 créer un Form = RegistrationType
+Sur templates = login.html.twig / registration.html.twig
 
 Les conditions du Sign Up:
 Email doit etre unique c-à-d non exite dans la base de données
@@ -30,7 +31,9 @@ J'ai des functions:
   
   
 
-
-
-
+Read:  security.yaml
+       Form =RegistrationType
+       Controller =SecurityController
+       Entity =User
+       templates = templates = login.html.twig / registration.html.twig
 
