@@ -1,4 +1,10 @@
-# User_Symfoy
+# User_Symfony
+
+Les actions faites:
+manipuler security.yaml
+créer un entity = User
+créer un controller = SecurityController
+créer un Form = RegistrationType
 
 Les conditions du Sign Up:
 Email doit etre unique c-à-d non exite dans la base de données
@@ -23,5 +29,8 @@ J'ai des functions:
   function detail = pour faire detailler chaque user et faire la supprission
   
   
+
+
+
 
 
