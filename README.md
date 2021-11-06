@@ -21,7 +21,7 @@ Si je fait Logout sur le NavBar s'affiche Login
 Pour faire le Sign Up Tapez l'@IP/inscription
 
 Sur SecurityController:
-J'ai des functions:
+J'ai eu des functions:
   function registration = pour Ajouter un utilisateur
   function login = pour faire la connexion
   function logout = (Voir security.yaml 'target:ListProd') pour faire la deconnexion
